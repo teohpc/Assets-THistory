@@ -1,0 +1,38 @@
+
+* {
+    font-family: "Tahoma", sans-serif;
+    font-size: 14px;
+}
+
+body {
+    background-color: #dddddd;
+    padding: 5px;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
+.info {
+    color: black;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+.sig {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
